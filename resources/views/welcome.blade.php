@@ -40,7 +40,7 @@
 
         <!-- Brand -->
         <a class="navbar-brand" href="#">
-          <strong>AmS Stats</strong>
+          <strong>Rankme Stats</strong>
         </a>
 
         <!-- Right links -->
@@ -49,27 +49,8 @@
 
           <!-- Icon -->
           <li class="nav-item me-3 me-lg-0">
-            <a class="nav-link" href="http://amsgaming.in/facebook">
-              <i class="fab fa-facebook"></i>
-            </a>
-          </li>
-
-          <li class="nav-item me-3 me-lg-0">
-            <a class="nav-link" href="http://amsgaming.in/whatsapp">
-              <i class="fab fa-whatsapp"></i>
-            </a>
-          </li>
-
-          <li class="nav-item me-3 me-lg-0">
-            <a class="nav-link" href="http://amsgaming.in/discord">
+            <a class="nav-link" href="https://discord.gg/fzmQhns3uf">
               <i class="fab fa-discord"></i>
-            </a>
-          </li>
-
-          <!-- Avatar -->
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle hidden-arrow d-flex align-items-center" href="https://amsgaming.in">
-              Main Website
             </a>
           </li>
         </ul>
@@ -97,7 +78,7 @@
 
   <script type="text/javascript" src="/stats_assets/js/mdb.min.js"></script>
   <script type="text/javascript" src="/stats_assets/js/admin.js"></script>
-  
+
   <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.js"></script>
   <script type="text/javascript" src="https://cdn.datatables.net/1.10.24/js/dataTables.bootstrap5.min.js"></script>
