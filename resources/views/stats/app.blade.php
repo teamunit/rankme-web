@@ -39,9 +39,9 @@
           </a>
           <a href="{{ route('top-mvp') }}" class="@yield('mvp') list-group-item list-group-item-action py-2 ripple"><i
               class="fas fa-chart-bar fa-fw me-3"></i><span>MVPs</span></a>
-          <a href="http://bans.amsgaming.in" class="list-group-item list-group-item-action py-2 ripple"><i
+          <a href="https://sourcebans.team-unit.net" class="list-group-item list-group-item-action py-2 ripple"><i
               class="fas fa-globe fa-fw me-3"></i><span>Ban List</span></a>
-          <a href="http://amsgaming.in" class="list-group-item list-group-item-action py-2 ripple"><i
+          <a href="https://www.team-unit.net" class="list-group-item list-group-item-action py-2 ripple"><i
               class="fas fa-building fa-fw me-3"></i><span>Website</span></a>
         </div>
       </div>
@@ -70,26 +70,10 @@
         <ul class="navbar-nav ms-auto d-flex flex-row">
 
           <!-- Icon -->
-          <li class="nav-item me-3 me-lg-0">
-            <a class="nav-link" href="https://github.com/sanjaysrocks">
-            <i class="fab fa-github"></i>
-            </a>
-            </li>
-            
             <li class="nav-item me-3 me-lg-0">
-            <a class="nav-link" href="http://amsgaming.in/facebook">
-            <i class="fab fa-facebook"></i>
-            </a>
-            </li>
-            <li class="nav-item me-3 me-lg-0">
-            <a class="nav-link" href="http://amsgaming.in/whatsapp">
-            <i class="fab fa-whatsapp"></i>
-            </a>
-            </li>
-            <li class="nav-item me-3 me-lg-0">
-            <a class="nav-link" href="http://amsgaming.in/discord">
-            <i class="fab fa-discord"></i>
-            </a>
+              <a class="nav-link" href="https://discord.gg/fzmQhns3uf">
+                <i class="fab fa-discord"></i>
+              </a>
             </li>
 
         </ul>
